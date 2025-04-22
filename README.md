@@ -1,6 +1,7 @@
 # Hi, I'm Nirmal Prajapati 👋
 
-🎓 B.E. IT Student | 💻 Full Stack Developer | ⚡ Code. Build. Deploy. | 🔍 Always Learning
+🎓 B.E. IT Student | 💻 Full Stack Developer | ⚡ Code. Build. Deploy. | 🔍 Always Learning | 
+🌐 [Portfolio](https://nirmal-prajapati.github.io/portfolio/)
 
 ---
 
@@ -58,10 +59,8 @@ Worked as a **Frontend Developer** for a real-world client project.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NIRMAL-PRAJAPATI&layout=compact&theme=vue-dark)
 
 ---
-
-<!-- 
+ 
 ### 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/nirmal-prajapati-b206ba277/))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nirmalprajapati727@gmail.com)
--->
