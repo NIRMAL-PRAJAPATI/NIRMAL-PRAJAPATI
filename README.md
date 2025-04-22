@@ -1,18 +1,67 @@
-# 💫 About Me:
-👋 Hi, I'm Nirmal Prajapati<br><br>🎓 Pursuing B.E. in Information Technology at Government Engineering College, Modasa (Semester VI)<br>👨‍💻 Passionate about Web Development and Software Engineering<br>💼 Worked as a Frontend Developer on a client project using HTML, CSS, JavaScript, and Bootstrap<br><br>⚙️ Currently working on:<br>MERN/PERN Stack - based web applications<br><br>🛠️ Skilled in:<br>Problem solving: C, JAVA, JavaScript, OOPs<br>Frontend: HTML, CSS, JavaScript, Bootstrap, TailwindCSS, JQuery<br>Backend: Node.js, Express.js<br>Database: MongoDB, MySQL, PostgreSQL<br>Tools & Technologies: Git, GitHub, VS Code, Postman, Render, Vercel, ChatGPT, V0<br><br>📂 Projects:<br>EZService – Service delivery platform<br>Prattle - RealTime personalized chat web application<br><br>🌱 Constantly learning and exploring new technologies<br><br>📫 Reach me at: nirmalprajapati727@gmail.com<br>🌐 Portfolio: https://nirmal-prajapati.github.io/portfolio/
+# Hi, I'm Nirmal Prajapati 👋
 
+🎓 B.E. IT Student | 💻 Full Stack Developer | ⚡ Code. Build. Deploy. | 🔍 Always Learning
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nirmal_prajapati235) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nirmal-prajapati-b206ba277) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nirmalprajapati727@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NIRMAL-PRAJAPATI&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NIRMAL-PRAJAPATI&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NIRMAL-PRAJAPATI&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+### 🛠 Technologies & Skills
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NIRMAL-PRAJAPATI&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+#### 💻 Frontend Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+#### ⚙️ Backend & Tools
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+#### ☁️ Deployment Platforms
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🚀 Projects
+
+#### 🔧 EZService
+A full-stack **PERN** (PostgreSQL, Express, React, Node.js) project for service booking and management.  
+**Tech Stack:** PostgreSQL | Express.js | Node.js | HTML | CSS | JavaScript
+
+#### 💬 Prattle - Real-Time Chat Web App
+An interactive, real-time chat platform with live messaging using **Socket.IO**.  
+**Tech Stack:** HTML | CSS | JavaScript | TailwindCSS | Node.js | Express.js | PostgreSQL | Socket.IO
+
+#### 🌐 Client Project (Frontend)
+Worked as a **Frontend Developer** for a real-world client project.  
+**Tech Stack:** HTML | CSS | JavaScript | Bootstrap
+
+---
+
+### 📈 GitHub Stats
+
+![Nirmal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NIRMAL-PRAJAPATI&show_icons=true&theme=vue-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NIRMAL-PRAJAPATI&layout=compact&theme=vue-dark)
+
+---
+
+<!-- 
+### 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/nirmal-prajapati-b206ba277/))
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nirmalprajapati727@gmail.com)
+-->
