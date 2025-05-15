@@ -1,7 +1,7 @@
 # Hi, I'm Nirmal Prajapati 👋
 
 🎓 B.E. IT Student | 💻 Full Stack Developer | ⚡ Code. Build. Deploy. | 🔍 Always Learning | 
-🌐 [Portfolio](https://nirmal-prajapati.github.io/portfolio/)
+🌐 [Portfolio](https://nirmal-prajapati.netlify.app)
 
 ---
 
