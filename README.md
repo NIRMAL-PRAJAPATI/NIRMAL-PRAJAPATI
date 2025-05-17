@@ -33,7 +33,7 @@
 #### ☁️ Deployment Platforms
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-000000?style=for-the-badge&logo=vercel&logoColor=indigo)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
 
 ---
