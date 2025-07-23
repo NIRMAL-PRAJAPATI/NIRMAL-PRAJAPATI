@@ -42,15 +42,15 @@
 
 #### 🔧 EZService
 A full-stack **PERN** (PostgreSQL, Express, React, Node.js) project for service booking and management.  
-**Tech Stack:** PostgreSQL | Express.js | Node.js | HTML | CSS | JavaScript
+**Tech Stack:** PostgreSQL | Express.js | Node.js | React.js | JavaScript | Twilio | OAuth | Socket.IO
 
 #### 💬 Prattle - Real-Time Chat Web App
 An interactive, real-time chat platform with live messaging using **Socket.IO**.  
-**Tech Stack:** HTML | CSS | JavaScript | TailwindCSS | Node.js | Express.js | PostgreSQL | Socket.IO
+**Tech Stack:** EJS | JavaScript | TailwindCSS | Node.js | Express.js | PostgreSQL | Socket.IO
 
 #### 🌐 Client Project (Frontend)
 Worked as a **Frontend Developer** for a real-world client project.  
-**Tech Stack:** HTML | CSS | JavaScript | Bootstrap
+**Tech Stack:** HTML | CSS | JavaScript | Bootstrap | DJengo | MySQL
 
 ---
 
