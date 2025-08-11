@@ -65,4 +65,4 @@ Worked as a **Frontend Developer** for a real-world client project.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/nirmal-prajapati-b206ba277/))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nirmalprajapati727@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=NIRMAL-PRAJAPATI)
+![Profile views](https://komarev.com/ghpvc/?username=NIRMAL-PRAJAPATI&color=blue)
